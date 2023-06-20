@@ -113,6 +113,7 @@ fieldset legend {
 
 .input-group #date {
   width: 300px;
+  padding: 0;
 }
 
 .col-2 {
